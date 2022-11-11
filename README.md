@@ -22,3 +22,12 @@ Movie Theater Project for Express Week Day 5
 `PUT /shows/:showId/status/:status` - Set show status
 
 `DELETE /shows/:showId` - Delete show
+
+
+### Usage
+
+`npm i` - Install dependencies
+
+`npm run seed` - Seed database
+
+`npm run start` - Run server
